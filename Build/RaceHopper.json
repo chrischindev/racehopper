@@ -1,0 +1,16 @@
+{
+"companyName": "ChrisChinDev",
+"productName": "Race Hopper",
+"productVersion": "0.1",
+"dataUrl": "RaceHopper.data.unityweb",
+"wasmCodeUrl": "RaceHopper.wasm.code.unityweb",
+"wasmFrameworkUrl": "RaceHopper.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
